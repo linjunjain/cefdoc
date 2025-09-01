@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="xx7bQ4H23C5qJWCzcObA">
-    <mxGraphModel dx="695" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1391,21 +1391,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdr61ZIaVhRGORSJ3Dzo-39" value=":YYCefBrowserCreator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="3261" y="4740" width="180" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="bdr61ZIaVhRGORSJ3Dzo-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bdr61ZIaVhRGORSJ3Dzo-39">
-          <mxGeometry x="85" y="60" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A0Irxi2a-dC_E5jF6UdZ-183" value="createBrowser(url, param)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="A0Irxi2a-dC_E5jF6UdZ-182" edge="1" source="bdr61ZIaVhRGORSJ3Dzo-41">
+        <mxCell id="A0Irxi2a-dC_E5jF6UdZ-183" value="createBrowser(url, param)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" target="A0Irxi2a-dC_E5jF6UdZ-182" edge="1" source="bdr61ZIaVhRGORSJ3Dzo-43">
           <mxGeometry x="0.0009" relative="1" as="geometry">
-            <mxPoint x="3521" y="4815" as="sourcePoint" />
+            <mxPoint x="3356" y="4815.000000000002" as="sourcePoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bdr61ZIaVhRGORSJ3Dzo-42" value="createBrowser(url, param)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" target="bdr61ZIaVhRGORSJ3Dzo-41" parent="1" source="bdr61ZIaVhRGORSJ3Dzo-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3077.166666666667" y="5195" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bdr61ZIaVhRGORSJ3Dzo-44" value="createCefWeb(url, createParams)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
